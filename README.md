@@ -23,11 +23,11 @@ https://github.com/weitingchen83/NTIRE2021-Depth-Guided-Image-Relighting-MBNet
 Please cite this paper in your publications if it is helpful for your tasks:    
 
 Bibtex:
-'''
+```
 @inproceedings{yang2021S3Net,
     title     = {{S3N}et: A Single Stream Structure for Depth Guided Image Relighting},
     author    = {Yang, Hao-Hsiang and Chen, Wei-Ting and Kuo, Sy-Yen},
     booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
     year      = {2021}
 }
-'''
+```
