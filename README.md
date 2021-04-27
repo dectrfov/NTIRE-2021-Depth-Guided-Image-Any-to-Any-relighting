@@ -7,13 +7,13 @@ Any-to-any relighting aims to relight an input image with a certain color temper
 
 We will provide the codes and pre-train models (coming soon !!!)
 
-[[S3Net paper]](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting/blob/main/paper/CVPRW_Relight.pdf)
+[S3Net paper](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting/blob/main/paper/CVPRW_Relight.pdf)
 
 ### Relit Images
 
-[[Here]](https://github.com/majedelhelou/VIDIT) is the original images from VIDIT dataset
+[Here](https://github.com/majedelhelou/VIDIT) is the original images from VIDIT dataset
 
-We also provide the relit images by our S3Net: [[val]](https://drive.google.com/file/d/1IpsXRMY4xTjYyAUJLEQI-UFQQf0HvLl7/view?usp=sharing) and [[test]](https://reurl.cc/GdaGky).
+We also provide the relit images by our S3Net: [val](https://drive.google.com/file/d/1IpsXRMY4xTjYyAUJLEQI-UFQQf0HvLl7/view?usp=sharing) and [test](https://reurl.cc/GdaGky).
 
 ### Another solution (*1st* Solution, NTIRE 2021 Depth Guided Relighting Challenge Track 1: One-to-one relighting) of our team: 
 
