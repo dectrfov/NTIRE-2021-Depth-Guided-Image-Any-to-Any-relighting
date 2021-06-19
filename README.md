@@ -7,7 +7,7 @@ Any-to-any relighting aims to relight an input image with a certain color temper
 
 We will provide the codes and pre-train models (coming soon !!!)
 
-[Report paper](https://arxiv.org/abs/2104.13365),[S3Net paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_S3Net_A_Single_Stream_Structure_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf) [CVPRW2021, Accepted]
+[Report paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Helou_NTIRE_2021_Depth_Guided_Image_Relighting_Challenge_CVPRW_2021_paper.pdf),[S3Net paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_S3Net_A_Single_Stream_Structure_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf) [CVPRW2021, Accepted]
 
 ### Relit Images
 
