@@ -18,10 +18,8 @@ $ cd NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting
 #### 2. Download the pre-trained [model](https://drive.google.com/file/d/1ixg5Jb3M73aPD6b_nu8udKOMP1i3Onnm/view?usp=sharing) and testing images
 
 Put model into model/
-
 Put images into test/
-
-Images Contain guide and input folders
+Images contain guide and input folders
 
 #### 3. Testing
 ```bash
